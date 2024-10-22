@@ -391,3 +391,4 @@ public class Run_Game extends JPanel {
         gameWindow.setVisible(true);  // Робимо вікно видимим
     }
 }
+ 
